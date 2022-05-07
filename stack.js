@@ -53,3 +53,12 @@ console.log(newStack.storage);
 
 newStack.push(45);
 console.log(newStack.storage);
+
+//Agregando stacks con clases, metodos y constructores
+class Pila {
+  constructor() {
+    this._size = 0;
+    this.storage = [];
+  }
+  push() {}
+}
