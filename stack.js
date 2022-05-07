@@ -61,4 +61,6 @@ class Pila {
     this.storage = [];
   }
   push() {}
+  pop() {}
+  freek() {}
 }
